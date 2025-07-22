@@ -1,3 +1,3 @@
-classify that is cat or dog
-audio to text
-text to audio
+Classify that is cat or dog, 
+Audio to Text,
+Text to Audio
